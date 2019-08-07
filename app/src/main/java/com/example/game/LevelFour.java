@@ -52,9 +52,9 @@ mydialog.show();
 
     public void showGameOver(View view){
 
-        Intent intent;
-        intent = new Intent(LevelFour.this,gameOver.class);
-        startActivity(intent);
+        Intent intent1;
+        intent1 = new Intent(LevelFour.this,gameOver.class);
+        startActivity(intent1);
 
 
 
